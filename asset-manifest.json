@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greeting-app-using-react/static/css/main.08caad78.css",
+    "main.js": "/greeting-app-using-react/static/js/main.baff1af9.js",
+    "static/js/453.6005877e.chunk.js": "/greeting-app-using-react/static/js/453.6005877e.chunk.js",
+    "index.html": "/greeting-app-using-react/index.html",
+    "main.08caad78.css.map": "/greeting-app-using-react/static/css/main.08caad78.css.map",
+    "main.baff1af9.js.map": "/greeting-app-using-react/static/js/main.baff1af9.js.map",
+    "453.6005877e.chunk.js.map": "/greeting-app-using-react/static/js/453.6005877e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08caad78.css",
+    "static/js/main.baff1af9.js"
+  ]
+}
